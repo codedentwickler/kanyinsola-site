@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "/"
 languageCode = "en-us"
 title = "Kanyinsola Fapohunda"
 theme = "hello-friend-ng"
