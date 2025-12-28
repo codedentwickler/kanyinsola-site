@@ -7,9 +7,7 @@ aliases = ["about-us","about-me","contact"]
 +++
 
 
-I'm a Software Engineer based in Dublin, Ireland. I have 4+ years of experience building Android & iOS applications and recently started working at Google as a Site Reliability Engineer.
-
-I am new to SRE and I will be blogging about my journey into SRE here.
+I'm a Senior Software Engineer based in London, UK. I have 7+ years of experience building Android & iOS applications and platform-level Android systems. I currently work at Google on the Android Platform team, where I've designed and launched the TrustedTime API that provides accurate timestamps to over 3 billion Android devices.
 
 #### Book Recommendations
 - [The Subtle Art of Not Giving a F^ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
