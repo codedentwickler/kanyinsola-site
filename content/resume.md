@@ -12,7 +12,7 @@ name = "Kanyinsola Fapohunda"
 **Google (London, UK)**  
 June 2020 – Present
 
-Working on Android Platform development with a focus on time systems and platform APIs. Led the design and development of the *TrustedTime API*, which provides accurate timestamps to over 3 billion Android devices and was featured on the official *Android Developers Blog*. Contributed to the COVID *Exposure Notifications app*, leading key feature development including the self-report flow and Material You design adoption. Provide org-wide mentorship and knowledge sharing.
+Working on Android Platform development with a focus on time systems and platform APIs. Led the design and development of the *TrustedTime API*, which provides accurate timestamps to over 3 billion Android devices and was featured on the official *Android Developers Blog*. Contributed to the COVID *Exposure Notifications app*, leading key feature development including the self-report flow and Material You design adoption.
 
 ### Mobile Software Engineer
 **Moniepoint Group (Lagos, Nigeria)**  
