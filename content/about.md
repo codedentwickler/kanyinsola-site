@@ -7,26 +7,7 @@ aliases = ["about-us","about-me","contact"]
 +++
 
 
-I'm a Senior Software Engineer based in London, UK. I have 7+ years of experience building Android & iOS applications and platform-level Android systems. I currently work at Google on the Android Platform team, where I've designed and launched the TrustedTime API that provides accurate timestamps to over 3 billion Android devices.
-
-#### Book Recommendations
-- [The Subtle Art of Not Giving a F^ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
-- [The Clean Coder: A Code of Conduct for Professional Programmers - Robert Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/013708107)
-
-- [Computer Science Distilled: Learn The Art Of Solving Computational Problems - Wladston Ferreira Filho](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
-
-- [Google SRE Book](https://landing.google.com/sre/books/)
-
-#### Games
-- FIFA & Mortal Kombat
-- Strategy
-- 8ball pool
-
-#### Interests
-- HipHop
-- Photography
-- Travel
-- Voluntering
+I am a Senior Software Engineer at Google on the Android Platform team. After beginning my Google journey in 2020 as a Site Reliability Engineer (SRE), I moved to the Android Platform team early in 2021. I specialize in Android platform services, having designed, developed and launched the [TrustedTime API](https://android-developers.googleblog.com/2025/02/trustedtime-api-introducing-reliable-approach-to-time-keeping-for-apps.html), which provides accurate timestamps to over 3 billion devices. My previous work also includes high-impact contributions to the [Google/Apple Exposure Notification System](https://en.wikipedia.org/wiki/Exposure_Notification), a privacy-preserving contact tracing framework that helped health authorities worldwide respond to the COVID-19 pandemic.
 
 #### What I love about CS
 - Game Theory, specifically its Dilemmas
